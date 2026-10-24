@@ -1,0 +1,5 @@
+float64 max_linear
+float64 max_angular
+---
+bool success
+string message

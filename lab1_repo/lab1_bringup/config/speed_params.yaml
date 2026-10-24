@@ -1,0 +1,4 @@
+turtle_controller:
+  ros__parameters:
+    max_linear_speed: 2.0    # units/s  (allowed range 0.01 .. 10.0)
+    max_angular_speed: 2.0   # rad/s    (allowed range 0.01 .. 10.0)
